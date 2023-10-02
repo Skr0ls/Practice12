@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice12</string>
+    <string name="apple_radiobutton">Яблоко</string>
+    <string name="pear_radiobutton">Груша</string>
+    <string name="grape_radiobutton">Виноград</string>
+    <string name="apple_checkbox">Яблоко</string>
+    <string name="pear_checkbox">Груша</string>
+    <string name="grape_checkbox">Виноград</string>
+</resources>
